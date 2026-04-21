@@ -23,6 +23,8 @@
 -Added slicers for dynamic filtering
 -Generated business insights and validated results
 # Homepage & Dashboard
--<a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Screenshot%20(100).png"> Homepage
-- <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Dashboard.png"> Dashboard
+-<img width="1851" height="710" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/4d901813-c517-4e18-9277-ddf2dfdc0568" />
+<a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Screenshot%20(100).png"> Homepage
+-<img width="1877" height="727" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/cd892d31-63a0-4b87-93cc-f859b6cb0467" />
+<a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Dashboard.png"> Dashboard
   
