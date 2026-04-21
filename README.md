@@ -23,3 +23,6 @@
 -Added slicers for dynamic filtering
 -Generated business insights and validated results
 # Dashboard
+-
+- <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Dashboard.png"> Dashboard
+  
