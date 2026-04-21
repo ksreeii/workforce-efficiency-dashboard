@@ -22,7 +22,7 @@
 -Designed interactive charts and dashboard
 -Added slicers for dynamic filtering
 -Generated business insights and validated results
-# Dashboard
--
+# Homepage & Dashboard
+-<a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Screenshot%20(100).png"> Homepage
 - <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Dashboard.png"> Dashboard
   
