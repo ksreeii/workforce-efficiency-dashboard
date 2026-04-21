@@ -27,4 +27,10 @@
 <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Screenshot%20(100).png"> Homepage
 -<img width="1877" height="727" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/cd892d31-63a0-4b87-93cc-f859b6cb0467" />
 <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Dashboard.png"> Dashboard
-  
+# Project insight
+-Photography division contributes the highest workload and budget utilization
+-Overtime earnings are highest in Tokyo and Toronto
+-Certain employees consistently outperform efficiency benchmarks
+-Budget allocation does not always align with actual revenue generated
+# Final conclusion
+This project highlights the use of Excel to transform raw workforce data into meaningful insights through KPI analysis and interactive dashboards, enabling better decision-making on employee performance, efficiency, and budget utilization.
