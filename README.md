@@ -14,3 +14,12 @@
 -City
 -Division
 -Dashboard interaction <a href="https://github.com/ksreeii/workforce-efficiency-dashboard/blob/main/Production%20Working%20Hours%20Analysis%20Data%20og.xlsx">View dashboard</a>
+# Process
+-Defined problem statement and KPIs
+-Cleaned and prepared dataset in Excel
+-Created calculated metrics (Efficiency, Overtime)
+-Built pivot tables for analysis
+-Designed interactive charts and dashboard
+-Added slicers for dynamic filtering
+-Generated business insights and validated results
+# Dashboard
